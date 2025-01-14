@@ -1,10 +1,9 @@
----
-
 # Byte Me - Food Ordering System 🍽️  
 
 **Byte Me** is a CLI-based food ordering system designed for a college canteen. It provides a simple, user-friendly interface for customers to order food and for admins to manage the menu and track orders.  
 
 ---
+
 ![1735298522488](https://github.com/user-attachments/assets/da7d87c1-6377-4bf3-b323-6c8c2e4b0092)
 
 ## Features 🚀  
